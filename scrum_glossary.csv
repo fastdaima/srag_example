@@ -1,0 +1,411 @@
+glossary,description,link
+5 Whys,"
+                  The 5 Whys is a proven problem-solving technique used to explore the cause-and-effect relationships underlying a particular problem as part of Inspect and Adapt.                ",
+AI (Artificial Intelligence),"
+                  Artificial Intelligence (AI) is a term used to describe a wide range of smart machines capable of performing tasks that typically required human intelligence. AI can be applied at all levels of SAFe to build intelligent customer solutions, automate value stream activities, and improve customer insights.                ",https://scaledagileframework.com/ai
+ART Backlog,"
+                  The ART Backlog is a Kanban system that is used to capture and manage the features and enablers intended to enhance the solution and extend its architectural runway.                ",https://scaledagileframework.com/art-and-solution-train-backlogs/
+ART Flow,"
+                  ART Flow describes a state where an ART delivers a continuous flow of valuable features to the customer.                ",https://scaledagileframework.com/art-flow/
+ART Kanban,"
+                  The ART Kanban system is a method to visualize and manage the flow of features from ideation to analysis, implementation, and release through the Continuous Delivery Pipeline.                ",
+ART PI Risks,"
+                  ART PI Risks are identified items that could impact the ability to meet the ART’s PI objectives.                ",
+ART Planning Board,"
+                  The ART Planning Board is a visualization of the PI's feature delivery dates, feature dependencies among teams, and relevant milestones.                ",
+ART Predictability Measure,"
+                  The ART Predictability Measure is an average of the achievement score for each teams on the ART for the PI.                ",
+ART Sync,"
+                  The ART Sync is an ART event that combines the Product Owner (PO) Sync and Coach Sync.                ",
+Acceptance Criteria,"
+                  Acceptance Criteria provide the information needed to ensure that a story, feature, or capability is implemented correctly and covers the relevant functionality and NFRs.                ",
+Acceptance Test Driven Development (ATDD),"
+                  Acceptance Test-Driven Development (ATDD) is a test-first, Agile testing practice largely synonymous with Behavior-Driven Development (BDD).                ",
+Agile,"
+                  Agile is a set of values, principles, and practices for iterative development most notably described by the Agile Manifesto.                ",
+Agile Architecture,"
+                  Agile Architecture is a set of values, practices, and collaborations that support a system's active, evolutionary design and architecture.                ",https://scaledagileframework.com/agile-architecture/
+Agile Business Function,"
+                  Agile Business Functions apply Lean-Agile methods and SAFe principles to streamline business operations and create transparency in value delivery.                ",
+Agile Business Train,"
+                  An Agile Business Train contains one or more SAFe operational value streams and all the ARTs needed to define, build, deploy, operate, and commercialize a complete business solution.                ",
+Agile Executive Team,"
+                  The Agile Executive Team is a construct for aligning senior leadership in the form of Agile team that exhibits the mindset, values, principles, and practices of agility.                ",
+Agile Manifesto,"
+                  The Agile Manifesto is the seminal Agile document describing the four values and twelve principles of Agile software development.                ",
+Agile Product Delivery (APD),"
+                  The Agile Product Delivery (APD) competency is a customer-centric approach to defining, building, and releasing products and services in a continuous flow of value to customers and end-users.                ",https://scaledagileframework.com/agile-product-delivery/
+Agile Release Train (ART),"
+                  The Agile Release Train (ART) is a long-lived team of Agile teams that incrementally develops, delivers, and often operates one or more solutions in a development value stream.                ",https://scaledagileframework.com/agile-release-train/
+Agile Software Engineering,"
+                  Agile Software Engineering (ASE) is the set of modern practices that reliably and predictably create quality software-centric systems. These practices originated with eXtreme Programming (XP) but have significantly evolved over the past two decades.                ",
+Agile Teams,"
+                  An Agile Team is a cross-functional group of typically ten or fewer individuals with all the skills necessary to define, build, test, and deliver value to their customer.                ",https://scaledagileframework.com/agile-teams/
+Architect Sync,"
+                  The Architect Sync is a Solution Train event to ensure consistency in how emerging designs and tradeoffs are managed across the Solution Train, allowing frequent opportunities to steer implementation approaches without becoming a source of delays.                ",
+Architectural Runway,"
+                  The Architectural Runway consists of the existing code, components, and technical infrastructure needed to implement near-term features with minimal redesign and delay.                ",https://scaledagileframework.com/architectural-runway/
+Backlog Refinement,"
+                  Backlog Refinement is a periodic activity teams use to define, discuss, estimate, and establish acceptance criteria for upcoming backlog items.                ",
+Baseline Solution Investments (BSIs),"
+                  Baseline Solution Investments (BSIs) are those costs incurred by each value stream as it develops, supports, and operates the solutions that deliver current business capabilities.                ",
+Batch Size,"
+                  Batch size is a measure of how much work is pulled into the system during any given timebox.                ",
+Behavior-Driven Development (BDD),"
+                  Behavior-Driven Development (BDD) is a test-first, Agile testing practice that provides built-in quality by defining (and potentially automating) tests before, or as part of, specifying system behavior.                ",
+Benefit Hypothesis,"
+                  The Benefit Hypothesis is the proposed measurable business or customer benefit of an epic, capability, feature, or story.                ",
+Big Data,"
+                  Big Data refers to the roles and practices required to collect, manage, normalize and deliver large datasets that help enterprises make more informed, fact-based decisions.                ",https://scaledagileframework.com/big-data
+Built-In Quality,"
+                  Built-In Quality is a set of practices to help ensure that the outputs of Agile teams in business and technology domains meet appropriate quality standards throughout the process of creating customer value.                ",https://scaledagileframework.com/built-in-quality/
+Burn-Down (Burn-Up) Chart,"
+                  Burn-Down and Burn-Up Charts are graphical displays that illustrate work progress versus time.                ",
+Business Agility,"
+                  Business Agility is the ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative, digitally-enabled business solutions.                ",https://scaledagileframework.com/business-agility/
+Business Context,"
+                  Business Context is a PI Planning agenda item presented by a business owner that describes the current state of the business, shares the portfolio vision, and presents a perspective on how effectively existing solutions are addressing current customer needs.                ",
+Business Owners,"
+                  Business Owners (BOs) are key ART stakeholders who have the primary business and technical responsibility for return on investment (ROI), governance, and compliance.                ",https://scaledagileframework.com/business-owners/
+Business and Technology,"
+                  Business and Technology describes the patterns that may be applied to realize Business Agility by applying SAFe principles and practices across the enterprise.                ",https://scaledagileframework.com/business-and-technology
+Business-Enabled ART,"
+                  A Business-Enabled ART is an Agile Release Train that includes the technical and business people needed to ensure the solution is aware of the business in which it operates and that it addresses the relevant concerns for the technology, business, and customer.                ",
+CALMR,"
+                  CALMR is a DevOps mindset that guides the ART toward achieving continuous value delivery by enhancing culture, automation, lean flow, measurement, and recovery.                ",https://scaledagileframework.com/calmr
+Capabilities,"
+                  A Capability represents large solution functionality whose implementation often spans multiple ARTs and is sized to be delivered within a PI.                ",https://scaledagileframework.com/features-and-capabilities/
+Capacity Allocation,"
+                  Capacity Allocation is an allocation of work by work item type for an upcoming planning period.                ",
+Cloud,"
+                  The Cloud represents virtual, on-demand processing and storage services used for cost-effective and scalable infrastructure and operations, implementation of the DevOps toolchain, and development and hosting of AI applications.                ",https://scaledagileframework.com/cloud/
+Coach Sync,"
+                  The Coach Sync is an ART event that helps coordinate ART dependencies and provides visibility into progress and impediments.                ",
+Collective Ownership,"
+                  Collective Ownership is a quality practice where individual team members have the requisite skills and authority to update any relevant asset to improve value flow.                ",
+Combined Portfolio,"
+                  A Combined Portfolio is a type of SAFe portfolio that includes both development and operational value streams.                ",
+Communities of Practice (CoPs),"
+                  Communities of Practice (CoPs) are organized groups of people with a common interest in a specific technical or business domain. They regularly collaborate to share information, improve their skills, and actively work on advancing their knowledge of the domain.                ",https://scaledagileframework.com/communities-of-practice/
+Compliance,"
+                  Compliance refers to the strategy, activities, and artifacts that allow teams to apply Lean-Agile development methods to build systems that have the highest possible quality, while simultaneously ensuring they meet regulatory, industry, and other relevant standards.                ",https://scaledagileframework.com/compliance/
+Confidence Vote,"
+                  The Confidence Vote measures the teams’ and ARTs’ belief in their ability to deliver the established PI Objectives.                ",
+Continuous Delivery Pipeline (CDP),"
+                  The Continuous Delivery Pipeline (CDP) represents the workflows, activities, and automation needed to guide new functionality from ideation to an on-demand release of value.                ",https://scaledagileframework.com/continuous-delivery-pipeline/
+Continuous Deployment (CD),"
+                  Continuous Deployment (CD) is an aspect of the Continuous Delivery Pipeline that automates the migration of new functionality from a staging environment to production, where it is made available for release.                ",https://scaledagileframework.com/continuous-deployment/
+Continuous Exploration (CE),"
+                  Continuous Exploration (CE) is an aspect of the Continuous Delivery Pipeline that drives innovation and fosters alignment on what should be built by continually exploring the market and customer needs, defining a vision, roadmap, and set of features for a solution.                ",https://scaledagileframework.com/continuous-exploration/
+Continuous Integration (CI),"
+                  Continuous Integration (CI) is an aspect of the Continuous Delivery Pipeline in which new functionality is developed, tested, integrated, and validated in preparation for deployment and release.                ",https://scaledagileframework.com/continuous-integration/
+Continuous Learning Culture (CLC),"
+                  The Continuous Learning Culture (CLC) competency describes a set of values and practices that encourage individuals—and the enterprise as a whole—to continually increase knowledge, competence, performance, and innovation.                ",https://scaledagileframework.com/continuous-learning-culture/
+Coordinate and Deliver,"
+                  Coordinate and Deliver describes the practices Solution Trains use to maintain the alignment and collaboration needed to continuously deliver value to large solution customers.                ",https://scaledagileframework.com/coordinate-and-deliver/
+Core Values,"
+                  The four Core Values of alignment, transparency, respect for people, and relentless improvement represent the foundational beliefs that are key to SAFe’s effectiveness.                ",https://scaledagileframework.com/safe-core-values/
+Cost of Delay,"
+                  Cost of Delay (CoD) is the numerator in WSJF prioritization which represents the money or value that will be lost by delaying or not doing a job for a time period relative to other jobs.                ",
+Customer,"
+                  Customers are the ultimate beneficiaries of the value of the solutions created and maintained by a portfolio’s value streams.                ",https://scaledagileframework.com/customer-centricity/
+Customer Centricity,"
+                  Customer Centricity is a mindset that focuses on creating positive experiences for the customer through the full set of products and services that the enterprise offers.                ",https://scaledagileframework.com/customer-centricity/
+Customer Journey Map,"
+                  A Customer Journey Map captures the user’s experiences as they interact with a company’s operational value stream, products, and services.                ",
+Decentralized Decision-Making,"
+                  Decentralized Decision-Making empowers individuals and teams to make decisions based on their local knowledge and context.                ",
+Definition of Done,"
+                  The Definition of Done specifies the requirements for completeness of a work product or increment of value.                ",
+Deploy,"
+                  To deploy is to migrate a change from a pre-production environment to a production or operational environment, where it may or may not be released to an end-user.                ",
+Design Thinking,"
+                  Design Thinking is a customer-centric development process that creates desirable products that are profitable and sustainable over their lifecycle.                ",https://scaledagileframework.com/design-thinking/
+DevOps,"
+                  DevOps is a mindset, culture, and set of technical practices that supports the integration, automation, and collaboration needed to effectively develop and operate a solution.                ",https://scaledagileframework.com/devops/
+Develop on Cadence,"
+                  Develop on Cadence is a set of development events and activities that occur on a regular schedule.                ",
+Development Value Streams,"
+                  A Development Value Stream is the sequence of activities needed to convert a business hypothesis into a digitally-enabled solution that delivers customer value.                ",https://scaledagileframework.com/development-value-streams
+Empathy Map,"
+                  An Empathy Map is a design thinking tool that is used to develop a deep and shared understanding of customers.                ",
+Enablers,"
+                  Enablers are backlog items that extend the architectural runway of the solution under development or improve the performance of the development value stream.                ",https://scaledagileframework.com/enablers/
+Enterprise,"
+                  
+The Enterprise represents the business entity to which each SAFe portfolio belongs.
+                ",https://scaledagileframework.com/enterprise/
+Enterprise Architect,"
+                  The Enterprise Architect is responsible for establishing the portfolio’s technology vision, strategy, and roadmap.                ",https://scaledagileframework.com/enterprise-architect/
+Enterprise Solution Delivery (ESD),"
+                  The Enterprise Solution Delivery (ESD) competency describes the practices necessary to apply SAFe principles and practices to the specification, development, operation, and evolution of the world’s largest and most sophisticated software applications, networks, and cyber-physical systems.                ",https://scaledagileframework.com/enterprise-solution-delivery/
+Epic Hypothesis Statement,"
+                  The Epic Hypothesis Statement is a structured format used to capture, organize, and communicate critical information and assumptions about an epic.                ",
+Epic Owners,"
+                  The Epic Owner is responsible for coordinating epics through the portfolio Kanban system.                ",https://scaledagileframework.com/epic-owner/
+Epics,"
+                  An Epic is a significant solution development initiative.                ",https://scaledagileframework.com/epic/
+Essential SAFe,"
+                  Essential SAFe provides the minimal elements necessary for Agile Release Trains to deliver solutions and is the simplest starting point for implementation.                ",https://scaledagileframework.com/essential-safe/
+Estimating Poker,"
+                  Estimating Poker is a collaborative technique for relatively estimating the size of stories and features.                ",
+Extreme Programming,"
+                  Extreme Programming (XP) is a set of Agile software engineering practices designed to improve software quality and responsiveness to changing requirements.                ",
+Features,"
+                  A Feature represents solution functionality that delivers business value, fulfills a stakeholder need, and is sized to be delivered by an Agile Release Train within a PI.                ",https://scaledagileframework.com/features-and-capabilities/
+Flow,"
+                  Flow is a state that occurs when there is a smooth, linear, and fast movement of work product from step to step in a value stream.                ",
+Flow Distribution,"
+                  Flow Distribution is a measure of the proportion of work items by type in a system.                ",
+Flow Efficiency,"
+                  Flow Efficiency is the ratio of the total time spent in value-added work activities divided by the total flow time.                ",
+Flow Load,"
+                  Flow Load is a measure of the number of work items currently in progress (active or waiting).                ",
+Flow Predictability,"
+                  Flow Predictability is a measure of how consistently teams, ARTs, and portfolios are able to meet their commitments.                ",
+Flow Time,"
+                  Flow Time is a measure of the time elapsed from start to completion for a given work item.                ",
+Flow Velocity,"
+                  Flow Velocity measures the number of completed work items over a time period.                ",
+Foundation,"
+                  Anchored by the Lean-Agile leadership and continuous learning culture competencies, the SAFe foundation contains the mindset, values, principles, and implementation guidance needed to implement SAFe practices and achieve business agility.                ",
+Full SAFe,"
+                  Full SAFe is the most comprehensive version of the Framework and supports enterprises that build and maintain a portfolio of large and complex solutions.                ",
+Gemba,"
+                  Gemba, also known as Genba, is the Japanese word for ‘the real place’ where work is performed and value is created.                ",
+Hackathon,"
+                  Hackathons are innovation events where team members can work on whatever they want, with whomever they want, so long as the work reflects the mission of the company and they demo their work at the end.                ",
+Innovation and Planning Iteration,"
+                  The Innovation and Planning (IP) Iteration is a unique, dedicated iteration that occurs every PI. It provides an estimating buffer for meeting PI Objectives and dedicated time for innovation, continuing education, PI Planning, and Inspect and Adapt (I&A) events.                ",https://scaledagileframework.com/innovation-and-planning-iteration/
+Inspect and Adapt,"
+                  The Inspect and Adapt (I&A) is a significant event held at the end of each PI, where the current state of the Solution is demonstrated and evaluated. Teams then reflect and identify improvement backlog items via a structured problem-solving workshop.                ",https://scaledagileframework.com/inspect-and-adapt/
+Integration Point,"
+                  An Integration Point is a learning event that pulls various solution elements into an integrated whole that can be objectively evaluated for performance and fitness for use.                ",
+Investment Horizons,"
+                  Investment Horizons provides a structure for companies to analyze, understand, and allocate investments in current and future business opportunities.                ",
+Iteration,"
+                  Iterations are a standard, fixed-duration timebox during which Agile Teams and ARTs individually and collectively deliver incremental customer value while working towards the PI objectives.                ",https://scaledagileframework.com/iterations/
+Iteration Goals,"
+                  Iteration Goals are a high-level summary of the business and technical goals that an Agile Team agrees to accomplish in an Iteration.                ",
+Iteration Planning,"
+                  Iteration planning is a SAFe Scrum event where all team members determine how much of the Team Backlog they can commit to delivering during an upcoming Iteration. The team summarizes this work as a set of committed iteration goals.                ",https://scaledagileframework.com/iteration-planning/
+Iteration Retrospective,"
+                  The Iteration Retrospective is a regular event where the team members discuss the results of the iteration, review their practices, and identify ways to improve.                ",https://scaledagileframework.com/iteration-retrospective/
+Iteration Review,"
+                  The Iteration Review is a regular SAFe Scrum event where the team inspects the iteration increment, assesses progress, and adjusts the team backlog.                ",https://scaledagileframework.com/iteration-review/
+Large Solution SAFe,"
+                  Large Solution SAFe is for enterprises building large and complex solutions that do not require portfolio concerns.                ",https://scaledagileframework.com/large-solution/
+Lean,"
+                  Lean is a body of knowledge and a set of practices designed to improve the efficiency and effectiveness of value delivery by reducing delays and eliminating non-value-added activities.                ",
+Lean Budget Guardrails,"
+                  Lean Budget Guardrails describe the policies and practices for budgeting, spending, and governance for a specific portfolio.                ",https://scaledagileframework.com/guardrails/
+Lean Budgets,"
+                  Lean Budgets is a financial governance approach that funds value streams instead of projects, accelerating value delivery and reducing the overhead and costs associated with traditional project cost accounting.                ",https://scaledagileframework.com/lean-budgets/
+Lean Business Case (LBC),"
+                  A Lean Business Case (LBC) is a structured format for describing epics, their MVPs, and projected business value.                ",
+Lean Governance,"
+                  Lean Governance is the dimension of Lean Portfolio Management that supports oversight of spending, audit, compliance, expenditure, measurement, and reporting.                ",
+Lean Portfolio Management (LPM),"
+                  The Lean Portfolio Management (LPM) competency aligns strategy and execution by applying Lean and systems thinking approaches to strategy and investment funding, Agile portfolio operations, and governance.                ",https://scaledagileframework.com/lean-portfolio-management/
+Lean Quality Management System (Lean QMS),"
+                  A Lean Quality Management System (Lean QMS) is a type of quality management system that applies Lean-Agile practices, policies, and procedures to confirm product quality, safety, and efficacy.                ",
+Lean User Experience (Lean UX),"
+                  Lean User Experience (Lean UX) is a team-based approach to building better products by focusing less on theoretically ideal design and more on iterative learning, overall user experience, and customer outcomes.                ",https://scaledagileframework.com/lean-ux/
+Lean-Agile Center of Excellence (LACE),"
+                  The Lean-Agile Center of Excellence (LACE) is a small Agile team dedicated to implementing the SAFe Lean-Agile way of working.                ",
+Lean-Agile Leadership (LAL),"
+                  The Lean-Agile Leadership (LAL) competency describes how leaders drive and sustain organizational change and operational excellence by empowering individuals and teams to reach their highest potential.                ",https://scaledagileframework.com/lean-agile-leadership/
+Lean-Agile Mindset,"
+                  The Lean-Agile Mindset is the combination of beliefs, assumptions, attitudes, and actions of SAFe leaders and practitioners who embrace the concepts of Lean Thinking and the Agile Manifesto.                ",https://scaledagileframework.com/lean-agile-mindset/
+Little's Law,"
+                  Little’s Law is a queuing theory that states that the average wait time for service from a system equals the ratio of the average queue length divided by the average processing rate.                ",
+Measure and Grow,"
+                  Measure and Grow is an approach SAFe enterprises use to evaluate progress towards Business Agility and determine improvement actions.                ",https://scaledagileframework.com/measure-and-grow/
+Milestone,"
+                  A milestone is a specific goal, event, or point in time used to evaluate progress toward a larger objective.                ",
+Minimum Marketable Feature (MMF),"
+                  A Minimum Marketable Feature (MMF) is the minimum functionality needed to validate a feature benefit hypothesis.                ",
+Minimum Viable Product (MVP),"
+                  A Minimum Viable Product (MVP) is an early and minimal version of a new solution sufficient to prove or disprove an epic hypothesis.                ",
+Model-Based Systems Engineering (MBSE),"
+                  Model-Based Systems Engineering (MBSE) is the practice of developing a set of related models that help define, design, simulate, and document a system under development.                ",https://scaledagileframework.com/model-based-systems-engineering/
+Modified Fibonacci Sequence,"
+                  A Modified Fibonacci Sequence is a relative estimating number sequence (1, 2, 3, 5, 8, 13, 20, 40, 100) that reflects the inherent uncertainty of the job being estimated.                ",
+Nonfunctional Requirements (NFRs),"
+                  Nonfunctional Requirements (NFRs) are system qualities that guide the design of the solution and often serve as constraints across the relevant backlogs.                ",https://scaledagileframework.com/nonfunctional-requirements/
+Objectives and Key Results (OKRs),"
+                  Objectives and Key Results (OKRs) is a collaborative framework for establishing clear goals and measurable outcomes.                 ",https://scaledagileframework.com/okrs/
+Operational Value Streams (OVS),"
+                  An Operational Value Stream (OVS) is the sequence of activities needed to deliver a product or service to a customer.                ",https://scaledagileframework.com/operational-value-streams
+Organizational Agility (OA),"
+                  The Organizational Agility (OA) competency describes how Lean-thinking people and Agile teams across the enterprise optimize their business processes, evolve strategy with clear and decisive new commitments, and quickly adapt the organization as needed to capitalize on new opportunities.                ",https://scaledagileframework.com/organizational-agility/
+PI Objectives,"
+                  PI Objectives summarize the business and technical goals that teams and trains intend to achieve in the upcoming PI and are either committed or uncommitted.                ",https://scaledagileframework.com/pi-objectives/
+PI Planning,"
+                  PI Planning is a cadence-based event for the entire ART that aligns teams and stakeholders to a shared mission and vision.                ",https://scaledagileframework.com/pi-planning/
+Pareto Analysis,"
+                  Pareto Analysis is a technique used during an Inspect & Adapt event to narrow down the number of actions that produce the most significant overall effect.                ",
+Participatory Budgeting (PB),"
+                  Participatory Budgeting (PB) is a collaborative process for allocating the portfolio budget to its value streams.                ",https://scaledagileframework.com/participatory-budgeting
+Personas,"
+                  Personas are representative characterizations of the people who use or could use the product.                ",
+Phase Gate,"
+                  Phase Gates are governance milestones based upon sequential, legacy approaches to measuring progress in solution development.                ",
+Plan-Do-Check-Adjust (PDCA),"
+                  Plan-Do-Check-Adjust (PDCA) is an expression of the scientific method for creating a hypothesis, experimenting, and evaluating the results to navigate uncertainty and create new learning.                ",
+Planning Interval (PI),"
+                  A Planning Interval (PI) is a cadence-based timebox in which Agile Release Trains deliver continuous value to customers in alignment with PI Objectives.                ",https://scaledagileframework.com/planning-interval/
+Portfolio,"
+                  A SAFe Portfolio is a set of value streams that delivers a continuous flow of valuable solutions to customers within a common funding and governance model.                ",https://scaledagileframework.com/portfolio/
+Portfolio Backlog,"
+                  The Portfolio Backlog is a Kanban system that is used to capture and manage the business and enabler epics intended to create and evolve the portfolio’s products, services, and solutions.                ",https://scaledagileframework.com/portfolio-backlog/
+Portfolio Canvas,"
+                  The Portfolio Canvas defines the development value streams in a SAFe portfolio, their solutions, their revenue streams, the customers they serve, and other key business elements.                ",
+Portfolio Flow,"
+                  Portfolio Flow describes a state where Lean Portfolio Management provides a continuous flow of new epics to Solution Trains and ARTs to achieve the portfolio’s vision and strategic themes.                ",https://scaledagileframework.com/portfolio-flow/
+Portfolio Kanban,"
+                  The Portfolio Kanban system is a method to visualize and manage the flow of portfolio epics, from ideation through analysis and implementation.                ",
+Portfolio SAFe,"
+                  Portfolio SAFe provides strategy and investment funding, Agile portfolio operations, and Lean governance for one or more value streams.                ",https://scaledagileframework.com/portfolio/
+Portfolio Vision,"
+                  The Portfolio Vision describes the future state of a portfolio’s value streams and solutions.                ",https://scaledagileframework.com/portfolio-vision/
+Pre-Plan,"
+                  Pre-Plan describes the activities that align and prepare ARTs within a Solution Train for PI planning.                ",https://scaledagileframework.com/pre-plan/
+Problem-Solving Workshop,"
+                  The Problem Solving Workshop is an Inspect and Adapt (I&A) event that provides a structured approach to identifying the root cause and actions to address systemic problems.                ",
+Product Management,"
+                  Product Management is the function responsible for defining desirable, viable, feasible, and sustainable solutions that meet customer needs and supporting development across the product life cycle.                ",https://scaledagileframework.com/product-management/
+Product Owner (PO),"
+                  The Product Owner (PO) is the Agile team member primarily responsible for maximizing the value delivered by the team by ensuring that the team backlog is aligned with customer and stakeholder needs.                ",https://scaledagileframework.com/product-owner/
+Product Owner (PO) Sync,"
+                  The PO Sync is an ART event used to gain visibility into the ART’s progress toward meeting its PI objectives and to make any necessary adjustments.                ",
+Refactoring,"
+                  Refactoring is the activity of improving the internal structure or operation of a code or component without changing its external behavior.                ",
+Relative Estimation,"
+                  Relative Estimation is a technique that is used to quickly compare the size and value of jobs in the system.                ",
+Release,"
+                  A release makes deployed functionality available to end-users.                ",
+Release Train Engineer (RTE),"
+                  The Release Train Engineer (RTE) is a servant leader and ART coach who facilitates ART events and processes, and supports teams in delivering value.                ",https://scaledagileframework.com/release-train-engineer
+Release on Demand,"
+                  Release on Demand is an aspect of the Continuous Delivery Pipeline that releases new functionality immediately or incrementally based on business and customer needs.                ",https://scaledagileframework.com/release-on-demand/
+Relentless Improvement,"
+                  Relentless Improvement is the SAFe core value that encourages learning and growth through continuous reflection and improvement.                ",
+Roadmap,"
+                  The Roadmap is a schedule of events and milestones that forecasts and communicates planned solution deliverables over a time horizon.                ",https://scaledagileframework.com/roadmap/
+SAFe,"
+                  SAFe is the world’s leading framework for Business Agility. SAFe integrates the power of Lean, Agile, and DevOps into a comprehensive operating system that helps enterprises thrive in the digital age by delivering innovative products and services faster, more predictably, and with higher quality.                ",https://scaledagileframework.com/safe/
+SAFe Big Picture (BP),"
+                  The SAFe Big Picture (BP) is a visual representation of the framework's primary roles, activities, and artifacts.                 ",
+SAFe Implementation Roadmap,"
+                  The SAFe Implementation Roadmap consists of an overview graphic and a 14-article series that describes a strategy and an ordered set of activities for successfully implementing SAFe.                ",https://scaledagileframework.com/implementation-roadmap/
+SAFe Lean Startup Cycle,"
+                  The SAFe Lean Startup cycle is an iterative build-measure-learn cycle that has proven to be effective in optimizing the economic value of strategic investments.                ",
+SAFe Lean-Agile Principles,"
+                  SAFe is based on ten immutable, underlying Lean-Agile principles. These tenets and economic concepts inspire and inform the roles and practices of SAFe.                ",https://scaledagileframework.com/safe-lean-agile-principles/
+SAFe Overview,"
+                  The SAFe Overview is a visualization of the seven core competencies of Business Agility and the dimensions of each.                ",
+SAFe Practice Consultants (SPCs),"
+                  SAFe Practice Consultants (SPCs) are certified change agents who combine their technical knowledge of SAFe with an intrinsic motivation to improve the company’s software, systems, and Agile business processes.                ",https://scaledagileframework.com/spc/
+SAFe Scrum,"
+                  SAFe Scrum is an Agile method used by teams within an ART to deliver customer value in a short time box. SAFe Scrum teams use iterations, Kanban systems, and Scrum events to plan, execute, demonstrate, and retrospect their work.                ",https://scaledagileframework.com/safe-scrum/
+SAFe Team Kanban,"
+                  SAFe Team Kanban is an Agile method used by teams within an ART to continuously deliver value. SAFe Kanban teams apply a flow-based process to their daily work and operate within the ART iteration cadence.                ",https://scaledagileframework.com/safe-team-kanban/
+SAFe for Government,"
+                  SAFe for Government is a set of success patterns that help public sector organizations achieve better solution development outcomes by implementing SAFe Lean-Agile values, mindset, principles, and practices.                ",https://scaledagileframework.com/Government/
+SWOT Analysis,"
+                  SWOT Analysis is a strategic planning technique used to identify strengths, weaknesses, opportunities, and threats of a SAFe portfolio.                ",
+Scrum Master/Team Coach (SM/TC),"
+                  The SAFe Scrum Master/Team Coach (SM/TC) is a servant leader and coach for an Agile team who facilitates team events and processes, and supports teams and ARTs in delivering value.                ",https://scaledagileframework.com/scrum-master-team-coach/
+Set-Based Design,"
+                  Set-Based Design (SBD) is a Lean development practice that keeps requirements and design options flexible for as long as possible during the development process.                ",https://scaledagileframework.com/set-based-design/
+Shared Services,"
+                  Shared Services represents the specialty roles, people, and services required for the success of an ART or Solution Train, but that are not dedicated full-time.                ",https://scaledagileframework.com/shared-services/
+Solution,"
+                  A Solution is a product, system, or service that provides value to internal or external customers.                ",https://scaledagileframework.com/solution/
+Solution Architect,"
+                  The Solution Architect is responsible for defining and communicating a shared technical and architectural vision for a Solution Train to help ensure the solution under development will be fit for its intended purpose.                ",https://scaledagileframework.com/solution-architect
+Solution Context,"
+                  Solution Context identifies the critical aspects of the environment in which a solution operates.                ",https://scaledagileframework.com/solution-context/
+Solution Demo,"
+                  The Solution Demo provides stakeholders an integrated view of the contributions of multiple ARTs and suppliers to obtain objective evidence of solution performance and to gather feedback.                ",https://scaledagileframework.com/solution-demo/
+Solution Intent,"
+                  Solution Intent is the repository for storing, managing, and communicating the knowledge of current and intended solution behavior and design.                ",https://scaledagileframework.com/solution-intent/
+Solution Management,"
+                  Solution Management is the function responsible for defining desirable, viable, feasible, and sustainable large solutions that meet customer needs and for supporting development across the solution life cycle.                 ",https://scaledagileframework.com/solution-management/
+Solution Train,"
+                  The Solution Train is the organizational construct used to build large solutions that requires the coordination of multiple ARTs and suppliers.                ",https://scaledagileframework.com/solution-train/
+Solution Train Backlog,"
+                  The Solution Train Backlog is a Kanban system that is used to capture and manage the capabilities and enablers intended to enhance the large solution and extend its architectural runway.                ",https://scaledagileframework.com/art-and-solution-train-backlogs/
+Solution Train Engineer (STE),"
+                  The Solution Train Engineer (STE) is a servant leader and coach who facilitates Solution Train events and processes, coordinates the work of ARTs and Suppliers, and supports ARTs in delivering value.                ",https://scaledagileframework.com/solution-train-engineer/
+Solution Train Flow,"
+                  Solution Train Flow describes a state where a Solution Train delivers a continuous flow of valuable capabilities to the customer.                ",https://scaledagileframework.com/solution-train-flow/
+Solution Vision,"
+                  The Solution Vision represents the future state of the solution under development. It serves as a reflection of customer and stakeholder needs and the proposed product or service to meet those needs.                ",https://scaledagileframework.com/vision/
+Spanning Palette,"
+                  The Spanning Palette contains various roles and artifacts that may apply to a specific team, ART, large solution, or portfolio context.                ",
+Spike,"
+                  A Spike is a type of exploration Enabler Story that gains the knowledge necessary to reduce the risk of a technical approach, better understand a requirement, or increase the reliability of an estimate.                ",
+Sprint,"
+                  Sprint is a Scrum method term for what SAFe defines as an iteration.                ",
+Stories,"
+                  Stories are short descriptions of a small piece of desired functionality written from the user’s perspective.                ",https://scaledagileframework.com/story/
+Story Map,"
+                  A Story Map is a design thinking technique that organizes a sequence of stories according to the tasks a user performs to accomplish their goal.                ",
+Story Point,"
+                  A Story Point is a singular, relative number used to estimate the combination of volume, complexity, knowledge, and uncertainty of user stories.                ",
+Strategic Themes,"
+                  Strategic themes are portfolio-level business objectives that provide competitive differentiation and strategic advantage. They provide business context for portfolio strategy and decision-making, representing aspects of the enterprise’s strategic intent.                ",https://scaledagileframework.com/strategic-themes/
+Sunk Costs,"
+                  A Sunk Cost is money that has already been spent and cannot be recovered.                ",
+Supplier,"
+                  A Supplier is an internal or external organization that develops and delivers solution components, subsystems, or services to ARTs and development value streams.                ",https://scaledagileframework.com/supplier/
+System Architect,"
+                  The System Architect is responsible for defining and communicating a shared technical and architectural vision for the solutions developed by an ART.                ",https://scaledagileframework.com/system-architect/
+System Demo,"
+                  The System Demo provides stakeholders an integrated view of new features for the most recent iteration delivered by all the teams on the ART. Each demo provides an objective measure of progress and the opportunity to give feedback.                ",https://scaledagileframework.com/system-demo/
+System Team,"
+                  The System Team is a specialized Agile team that assists in building and supporting the Agile development environment, including developing and maintaining the Continuous Delivery Pipeline. They may also support the integration of assets, end-to-end solution testing, DevOps mindset and practices, deployment, and release on demand.                ",https://scaledagileframework.com/system-team/
+Systems Thinking,"
+                  Systems Thinking is a holistic approach that incorporates all aspects of a system and its environment into its design, development, deployment, and maintenance.                ",
+TOWS Analysis,"
+                  TOWS Analysis is a thinking tool used in conjunction with a SWOT analysis to help identify strategic options for evolving a SAFe portfolio.                ",
+Team Backlog,"
+                  The Team Backlog is a Kanban system that is used to capture and manage the user stories and enablers intended to enhance the solution.                ",https://scaledagileframework.com/team-backlog/
+Team Flow,"
+                  Team Flow describes a state in which Agile teams deliver a continuous flow of value to the customer.                ",https://scaledagileframework.com/team-flow
+Team Sync,"
+                  The Team Sync is a short meeting (usually 15 minutes or less), typically held about daily, to inspect progress toward the team goals, communicate, and adjust upcoming planned work.                ",
+Team Topologies,"
+                  Team Topologies describes four organizational patterns that can be used for organizing Agile teams and ARTs.                ",
+Team and Technical Agility (TTA),"
+                  The Team and Technical Agility (TTA) competency describes the critical skills, principles, and practices that high-performing Agile teams on an Agile Release Train use to create high-quality solutions for their customers.                ",https://scaledagileframework.com/team-and-technical-agility/
+Test-Driven Development (TDD),"
+                  Test-Driven Development (TDD) is a mindset and practice that builds and executes tests before implementing the code for a component or system.                ",
+U-curve Optimization,"
+                  U-curve Optimization determines the optimal batch size by finding the point where the total of transaction costs and holding costs is the lowest.                ",
+Value Management Office (VMO),"
+                  The Value Management Office (VMO) is an organizational function responsible for facilitating the Lean Portfolio Management process and for fostering operational excellence and lean governance as part of a Lean-Agile transformation.                ",
+Value Stream,"
+                  
+A Value Stream is the sequence of activities that contains all the people, systems, information, and materials needed to deliver value to a customer.
+                ",
+Value Stream Coordination,"
+                  Value Stream Coordination describes how to manage dependencies between value streams and exploit the opportunities that exist in the interconnections.                ",https://scaledagileframework.com/value-stream-coordination/
+Value Stream Identification,"
+                  Value Stream Identification is an activity used to identify development value streams and the operational value streams they support.                ",
+Value Stream KPIs,"
+                  Value Stream Key Performance Indicators (KPIs) are the quantifiable measures used to evaluate how a value stream performs against its business objectives.                ",https://scaledagileframework.com/value-stream-kpis/
+Value Stream Management (VSM),"
+                  Value Stream Management (VSM) is a leadership and technical discipline that enables the maximum flow of business value through the end-to-end solution delivery life cycle.                ",https://scaledagileframework.com/value-stream-management/
+Value Stream Mapping,"
+                  Value Stream Mapping is an activity used to identify the individual steps in a workflow and the delays between steps.                ",
+Value Streamlet,"
+                  A Value Streamlet is a smaller, largely independent value flow within a development value stream that delivers value according to customer needs and pace.                ",
+Verification and validation (V&V),"
+                  Verification and validation (V&V) are processes used to assure a product, service, or system is designed in accordance with the solution intent and is fit for its intended purpose.                ",
+Weighted Shortest Job First (WSJF),"
+                  Weighted Shortest Job First (WSJF) is a prioritization model used to sequence work for maximum economic benefit. In SAFe, WSJF is estimated as the relative cost of delay divided by the relative job duration.                ",https://scaledagileframework.com/wsjf/
+Work in Process,"
+                  Work in Process (WIP) represents the total active work items in a system.                ",
